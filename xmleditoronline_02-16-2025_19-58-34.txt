@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts>
+    <contact>
+        <name>Kökten Adal</name>
+        <phone>+90 333 8859342</phone>
+    </contact>
+    <contact>
+        <name>Hamma Abdurrezak</name>
+        <phone>+90 333 1563682</phone>
+    </contact>
+    <contact>
+        <name>Güleycan Şensal</name>
+        <phone>+90 333 2557114</phone>
+    </contact>
+    <contact>
+        <name>Suadiye Ratip</name>
+        <phone>+90 333 9163726</phone>
+    </contact>
+    <contact>
+        <name>Barik Nurşide</name>
+        <phone>+90 333 3323749</phone>
+    </contact>
+    <contact>
+        <name>Hanifi Emineeylem</name>
+        <phone>+90 333 2763531</phone>
+    </contact>
+    <contact>
+        <name>Nakiye Oğulkan</name>
+        <phone>+90 333 6168924</phone>
+    </contact>
+    <contact>
+        <name>Hamsiye Cerit</name>
+        <phone>+90 333 3544579</phone>
+    </contact>
+    <contact>
+        <name>Mahfi Hülâgü</name>
+        <phone>+90 333 8937773</phone>
+    </contact>
+    <contact>
+        <name>Esmeray Nurihayat</name>
+        <phone>+90 333 1688759</phone>
+    </contact>
+    <contact>
+        <name>Şennur Nazifer</name>
+        <phone>+90 333 5326326</phone>
+    </contact>
+    <contact>
+        <name>Çetinok Seden</name>
+        <phone>+90 333 1614182</phone>
+    </contact>
+    <contact>
+        <name>Vuslat Erimşah</name>
+        <phone>+90 333 9551194</phone>
+    </contact>
+    <contact>
+        <name>Şeküre Ruhiye</name>
+        <phone>+90 333 8792165</phone>
+    </contact>
+    <contact>
+        <name>İmran Ümmehan</name>
+        <phone>+90 333 6971156</phone>
+    </contact>
+    <contact>
+        <name>Yavuzbay Hiçsönmez</name>
+        <phone>+90 333 8839473</phone>
+    </contact>
+    <contact>
+        <name>Nevzete Abdulgafur</name>
+        <phone>+90 333 1453851</phone>
+    </contact>
+    <contact>
+        <name>Aksüyek Sal</name>
+        <phone>+90 333 2481491</phone>
+    </contact>
+    <contact>
+        <name>Ferhat Kılıçaslan</name>
+        <phone>+90 333 6861354</phone>
+    </contact>
+    <contact>
+        <name>Fereç Tomurcuk</name>
+        <phone>+90 333 4141534</phone>
+    </contact>
+</contacts>
